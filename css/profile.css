@@ -1,0 +1,43 @@
+/* style.css 
+   Author: Daniella Segura
+   Date: August 2014
+*/
+
+
+/* Start General Styles */
+body {background-color:#000; padding-top:10px; font-family:"Helvetica Neue," Helvetica, Arial, sans-serif; font-size:14px;} 
+
+#container {width:1080px; margin:0 auto; background-color:#fff;}
+/* End General Styles */
+
+
+
+/* Start Header Styles */
+#header {background-color:#fff; padding-top:0px; margin: 0px; height:200px; color:#000;}
+
+#logo {float:right; padding-right:10px;}
+
+#title {padding-left:45px; padding-top:10px; text-align:left;}
+
+#teaser_text {text-align:left; padding-left:100px; width:450px;}   
+/* End Header Styles */
+
+
+
+/* Start Profile Styles */
+#profile {background-color:#545454; height:1700px; padding-left:40px; padding-top:30px; color:#fff; text-align: center; font-size: 14px;} 
+
+#photo_caption {text-align:left; margin-right:auto; margin-left:auto; width:600px; font-style:italic; font-size: 12px;}
+
+#profile_text {text-align:left; width:700px; margin-left:auto; margin-right:auto;}
+/* End Profile Styles */
+
+
+
+/* Start Footer Styles */
+#footer {background-color:#fff; color:#000; height:250px; padding-left:100px; padding-top:30px;}
+
+#footer_text {width:800px;}
+
+#headshot {padding-right:150px; width:100px; float:left;} 
+/* End Footer Styles */
